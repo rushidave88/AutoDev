@@ -1,0 +1,8 @@
+langgraph
+langchain
+chromadb
+docker
+scikit-learn
+xgboost
+pytest
+pydantic
